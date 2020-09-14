@@ -14,7 +14,8 @@ import collections
 import math
 
 
-filenames = glob(r"C:\Users\manue\Documents\Documentos\Microestructura y sistemas de trading\myst_if706882_lab1\files\NAFTRAC_holdings\*.csv")
+filenames = glob(r"C:\Users\manue\Documents\Documentos\Microestructura y sistemas de trading\myst_if706882_lab1\files\NAFTRAC_holdings/*.csv")
+# para la lectura de los archivos, la paqueteria glob necesita toda la ruta, r al principio y /*.csv al final para que identifique la terminacion
 # data = pd.read_csv(filenames, skiprows=2)
 archivos = [filenames[i][-18:-4] for i in range(len(filenames))]
 
