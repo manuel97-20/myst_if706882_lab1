@@ -1,8 +1,8 @@
 # Project Title
+Laboratorio 1
 
 ## Description
-*Insert here a brief description of the project, including, purpose, technologies used and context 
-where it was created.*
+Comparación entre una estrategia de inversión activa y una pasiva 
 
 ## Install dependencies
 
@@ -13,11 +13,10 @@ Install all the dependencies stated in the requirements.txt file, just run the f
 Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
-
-*Add here examples of core functionalities for the project in this repository.*
+Calcular el rendimiento de una estrategia pasiva y a una activa  a partir de archivos con las ponderaciones que usa el NAFTRAC para cada uno de los activos que lo componen 
 
 ## Author
-*Add Name and a brief description on who you are.*
+José Manuel Ochoa Cárdenas 
 
 ## License
 **GNU General Public License v3.0** 
@@ -28,4 +27,4 @@ works using a licensed work, under the same license. Copyright and license notic
 must be preserved. Contributors provide an express grant of patent rights.*
 
 ## Contact
-*For more information in reggards of this repo, please contact name@email.com*
+*For more information in reggards of this repo, please contact manuelochoa2097@hotmail.com
